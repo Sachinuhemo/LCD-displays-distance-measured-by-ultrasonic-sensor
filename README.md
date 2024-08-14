@@ -1,4 +1,3 @@
-![GitHub License](https://img.shields.io/github/license/Sachinuhemo/LCD-displays-distance-measured-by-ultrasonic-sensor)
 ![](https://img.shields.io/github/repo-size/Sachinuhemo/LCD-displays-distance-measured-by-ultrasonic-sensor)
 
 [Japanese readme](https://github.com/Sachinuhemo/LCD-displays-distance-measured-by-ultrasonic-sensor/blob/main/README-jp.md)
