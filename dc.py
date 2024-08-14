@@ -1,13 +1,12 @@
 import RPi.GPIO as GPIO
 from PIL import Image, ImageDraw, ImageFont
 import Adafruit_SSD1306
-import math
 import time
 import sys
 
 trig_pin = 15
 echo_pin = 14
-speed_of_sound = 34183
+speed_of_sound = 34370 # speed of sound(cm/s)
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
